@@ -4,4 +4,4 @@ A simple and user-friendly To-Do List web app built with HTML, CSS, and JavaScri
 
 ## 📸 Screenshot
 
-![To-Do Screenshot](assets/to-do_screenshot.png)
+![To-Do Screenshot](/assets/to-do_screenshot.png)
